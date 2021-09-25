@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086606316642",
+    "project_id": "eagle-eye-book-shop",
+    "storage_bucket": "eagle-eye-book-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086606316642:android:606e7e9f2aeae0aa4eed3b",
+        "android_client_info": {
+          "package_name": "com.tech.eagleeyebookshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086606316642-s8g861snssp5kko1lhd9hh5ikiclrjk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYfCpFjw5TjLp3tXjVj-ySaqQ-wpOAT9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086606316642-s8g861snssp5kko1lhd9hh5ikiclrjk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
